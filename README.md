@@ -4,11 +4,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-0A84FF?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-3366CC?style=for-the-badge&logo=windows&logoColor=white)
 
-Este laboratorio muestra la implementación de un entorno Active Directory desde cero, utilizando distintas herramientas del ecosistema Windows y servicios de red para practicar administración, automatización y configuración de un dominio en un entorno controlado.
-
 ---
 
-## 🌟 Descripción general
+## 🌟 Descripción
 
 Laboratorio práctico orientado a la instalación y configuración básica de **Active Directory Domain Services (AD DS)** en un entorno aislado con **Windows Server**.  
 Incluye la creación de un dominio, usuarios, grupos, políticas de contraseñas y permisos sobre recursos compartidos, con el objetivo de reforzar habilidades esenciales para roles de **Blue Team / SOC / Administración de Sistemas**.
