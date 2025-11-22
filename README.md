@@ -8,12 +8,12 @@
 
 ## 🌟 Descripción
 
-Laboratorio práctico orientado a la instalación y configuración básica de **Active Directory Domain Services (AD DS)** en un entorno aislado con **Windows Server**.  
+Instalación y configuración básica de **Active Directory Domain Services (AD DS)** en un entorno aislado con **Windows Server**.  
 Incluye la creación de un dominio, usuarios, grupos, políticas de contraseñas y permisos sobre recursos compartidos, con el objetivo de reforzar habilidades esenciales para roles de **Blue Team / SOC / Administración de Sistemas**.
 
 ---
 
-## 🎯 Objetivos principales
+## 🎯 Objetivos
 
 • Implementar un **dominio AD DS** (`lab.local`) en Windows Server.  
 • Crear y organizar **Unidades Organizativas (OUs)**.  
@@ -24,7 +24,7 @@ Incluye la creación de un dominio, usuarios, grupos, políticas de contraseñas
 
 ---
 
-## 📁 Estructura del dominio
+## 📁 Estructura
 
 ```mermaid
 graph TD
