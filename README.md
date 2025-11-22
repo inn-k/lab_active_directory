@@ -1,4 +1,4 @@
-# 🛡 Active Directory Lab
+# 🛡 LAB: Active Directory
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-19b5fe?style=for-the-badge&logo=microsoft&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0A84FF?style=for-the-badge&logo=powershell&logoColor=white)
